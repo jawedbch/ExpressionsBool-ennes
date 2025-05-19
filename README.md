@@ -76,4 +76,4 @@ EB(K) signifie que les variables sont prises parmi les **K premières lettres** 
 - `Noeud.java` : Structure d'un nœud de l'arbre (char, gauche, droite)
 - `Main.java` : Classe de test : création, affichage, évaluation
 - `README.md` : ce fichier
-- `LICENSE` : licence du projet (MIT, par exemple)
+- `LICENSE` : licence du projet
