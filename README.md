@@ -1,6 +1,7 @@
 # 🤖 Expressions Booléennes – TAD EB(K)
 
-Projet réalisé dans le cadre du TP d'Algorithmique et Programmation 5 — Université du Havre
+Projet réalisé dans le cadre du TP **d'Algorithmique et Programmation 5** — Université du Havre        
+Encadré par : Véronique Jay
 
 ---
 
